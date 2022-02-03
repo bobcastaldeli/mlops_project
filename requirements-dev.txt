@@ -10,13 +10,13 @@ astroid==2.9.3
     # via pylint
 attrs==21.4.0
     # via pytest
-awscli==1.22.42
+awscli==1.22.47
     # via -r requirements-dev.in
 babel==2.9.1
     # via sphinx
 black==21.12b0
     # via -r requirements-dev.in
-botocore==1.23.42
+botocore==1.23.47
     # via
     #   awscli
     #   s3transfer
