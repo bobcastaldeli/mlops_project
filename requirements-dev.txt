@@ -128,7 +128,7 @@ pylint==2.12.2
     # via -r requirements-dev.in
 pyparsing==3.0.7
     # via packaging
-pytest==6.2.5
+pytest==7.0.0
     # via
     #   -r requirements-dev.in
     #   pytest-mock
@@ -196,12 +196,12 @@ toml==0.10.2
     #   pre-commit
     #   pre-commit-hooks
     #   pylint
-    #   pytest
     #   tox
 tomli==1.2.3
     # via
     #   black
     #   pep517
+    #   pytest
 tox==3.24.5
     # via -r requirements-dev.in
 tqdm==4.62.3
